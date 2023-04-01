@@ -1,0 +1,5 @@
+D:\Pemrograman\TugasPraktikumClass&Object\TugasPraktikumClass&Object\obj\Debug\net5.0\TugasPraktikumClass&Object.csproj.AssemblyReference.cache
+D:\Pemrograman\TugasPraktikumClass&Object\TugasPraktikumClass&Object\obj\Debug\net5.0\TugasPraktikumClass&Object.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemrograman\TugasPraktikumClass&Object\TugasPraktikumClass&Object\obj\Debug\net5.0\TugasPraktikumClass&Object.AssemblyInfoInputs.cache
+D:\Pemrograman\TugasPraktikumClass&Object\TugasPraktikumClass&Object\obj\Debug\net5.0\TugasPraktikumClass&Object.AssemblyInfo.cs
+D:\Pemrograman\TugasPraktikumClass&Object\TugasPraktikumClass&Object\obj\Debug\net5.0\TugasPraktikumClass&Object.csproj.CoreCompileInputs.cache
